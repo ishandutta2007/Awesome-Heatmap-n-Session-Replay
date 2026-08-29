@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Hotjar (Contentsquare)](https://www.hotjar.com/)**  
-
-  Popular behavior analytics platform offering heatmaps, session recordings, surveys, and feedback tools; now part of the broader Contentsquare ecosystem.
-
-
-
-- **[Microsoft Clarity](https://clarity.microsoft.com/)**  
-
-  Free heatmap and session recording tool from Microsoft with unlimited sessions, rage-click detection, and strong privacy-focused design.
-
-
-
-- **[FullStory](https://www.fullstory.com/)**  
-
-  Enterprise digital experience analytics platform with high-fidelity session replay, powerful search, and AI-assisted insights.
-
-
-
-- **[Smartlook](https://www.smartlook.com/)**  
-
-  Session recording and heatmap solution supporting both web and mobile apps, with event tracking and funnel analysis.
-
-
-
-- **[Lucky Orange](https://www.luckyorange.com/)**  
-
-  All-in-one visitor insight platform combining heatmaps, session recordings, live chat, and form analytics, popular with SMBs and ecommerce.
-
-
-
-- **[Crazy Egg](https://www.crazyegg.com/)**  
-
-  Classic heatmap tool offering click, scroll, and confetti maps along with simple A/B testing capabilities.
-
-
-
-- **[Mouseflow](https://mouseflow.com/)**  
-
-  Session replay and heatmap platform known for form analytics, friction scoring, and multiple heatmap types.
-
-
-
-- **[Contentsquare](https://contentsquare.com/)**  
-
-  Enterprise experience analytics platform with advanced zone-based heatmaps, journey analysis, and deep behavioral insights.
-
-
-
-- **[Inspectlet](https://www.inspectlet.com/)**  
-
-  Session recording and heatmap tool focused on visualizing user interactions and identifying usability issues.
-
-
-
-- **[Glassbox](https://www.glassbox.com/)**  
-
-  Enterprise digital experience and session replay platform often used in regulated industries, with strong struggle detection and analytics.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Hotjar (Contentsquare)](https://www.hotjar.com/)** | Popular behavior analytics platform offering heatmaps, session recordings, surveys, and feedback tools; now part of the broader Contentsquare ecosystem. | Starts at **$39/mo** (Growth plan, billed annually) / **$49/mo** (monthly) | **Free forever plan**: up to 200,000 monthly sessions, 1 project, heatmaps, and basic surveys (up to 100 responses/mo) |
+| **[Microsoft Clarity](https://clarity.microsoft.com/)** | Free heatmap and session recording tool from Microsoft with unlimited sessions, rage-click detection, and strong privacy-focused design. | **$0 / Free** (100% free tool, no paid tiers) | **Free forever plan**: unlimited sessions, unlimited heatmaps, unlimited domains, 90-day recording retention |
+| **[FullStory](https://www.fullstory.com/)** | Enterprise digital experience analytics platform with high-fidelity session replay, powerful search, and AI-assisted insights. | Starts at **~$10,000/yr** (~$833/mo) for Business tier / annual contract quote | **Free forever plan (FullstoryFree)**: 30,000 sessions/month, 10 seats, 1-year data retention *(or 14-day free trial on premium features)* |
+| **[Smartlook](https://www.smartlook.com/)** | Session recording and heatmap solution supporting both web and mobile apps, with event tracking and funnel analysis. | Starts at **$55/mo** (Business tier, billed monthly) | **Free forever plan**: up to 3,000 sessions/month, 10 heatmaps, 10 events, 2 funnels, 1-month data history |
+| **[Lucky Orange](https://www.luckyorange.com/)** | All-in-one visitor insight platform combining heatmaps, session recordings, live chat, and form analytics, popular with SMBs and ecommerce. | Starts at **$32/mo** (Build plan, billed annually) / **$39/mo** (monthly) | **Free forever plan**: 100 sessions/month, heatmaps, and surveys *(plus 7-day free trial on higher tiers)* |
+| **[Crazy Egg](https://www.crazyegg.com/)** | Classic heatmap tool offering click, scroll, and confetti maps along with simple A/B testing capabilities. | Starts at **$29/mo** (Starter plan, billed annually at $348/yr) | **30-day free trial** on Starter plan: 5,000 tracked pageviews/mo, 5 heatmap reports, 50 session recordings/mo *(plus separate Free Web Analytics tier)* |
+| **[Mouseflow](https://mouseflow.com/)** | Session replay and heatmap platform known for form analytics, friction scoring, and multiple heatmap types. | Starts at **$25/mo** (Essential plan, billed annually) / **$31/mo** (monthly) | **Free forever plan**: 500 recordings/sessions per month, 1 website, all heatmap types |
+| **[Contentsquare](https://contentsquare.com/)** | Enterprise experience analytics platform with advanced zone-based heatmaps, journey analysis, and deep behavioral insights. | Starts at **$39/mo** (Growth plan, billed annually) / **$49/mo** (monthly) | **Free forever plan**: up to 200,000 monthly sessions, 1 project, basic heatmaps and funnels *(plus 15-day free trial for Growth tier)* |
+| **[Inspectlet](https://www.inspectlet.com/)** | Session recording and heatmap tool focused on visualizing user interactions and identifying usability issues. | Starts at **$39/mo** (Micro plan, 10,000 recorded sessions/mo) | **Free forever plan**: 2,500 recorded sessions/month, 3 websites, 1-month data retention |
+| **[Glassbox](https://www.glassbox.com/)** | Enterprise digital experience and session replay platform often used in regulated industries, with strong struggle detection and analytics. | Starts at **$50,000/yr** (~$4,167/mo AWS Marketplace / annual enterprise contract for up to 50K sessions/mo) | **30-day free trial**: evaluation tier with full struggle detection, heatmap, and session replay access |
 
 
 
