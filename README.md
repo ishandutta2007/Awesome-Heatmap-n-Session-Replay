@@ -63,7 +63,7 @@ Whether you are optimizing conversion funnels, diagnosing rage clicks, resolving
 
 *Ranked and sorted descending by GitHub Star Count.*
 
-| 📦 Project | ⭐ Stars | 🛠️ Core Focus &amp; Capabilities | 📜 License |
+| 📦 Project | ⭐ Github_Stars | 🛠️ Core Focus &amp; Capabilities | 📜 License |
 | :--- | :--- | :--- | :--- |
 | **[PostHog](https://github.com/PostHog/posthog)** | [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | 🦔 All-in-one product analytics suite: session replay, clickmaps/heatmaps, feature flags, A/B experiments, web analytics, and surveys. Self-hostable via Docker/K8s with ClickHouse backend. | `MIT / ELv2` |
 | **[Umami](https://github.com/umami-software/umami)** | [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers) | 🌿 Privacy-focused, lightweight, beautiful open-source web analytics solution with custom event tracking and real-time visitor insights. | `MIT` |
